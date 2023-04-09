@@ -16,7 +16,7 @@ namespace LessonsIJunior.Lesson2
         private decimal price;
         private byte numberOfSeats;
         private short speedLimit;
-        private long population;
+        private long totalNumberOfTrips;
         private char grade;
     }
 }
